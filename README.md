@@ -1,4 +1,4 @@
-<h1 align="center">PORTFÓLIO</h1>
+<h1 align="center">PROJETO - PÁGINA HOME</h1>
 
 ## Sobre o projeto:
 
