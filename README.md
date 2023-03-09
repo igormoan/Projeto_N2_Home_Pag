@@ -10,6 +10,7 @@ Estrutura <img align="center" title="HTML" alt="icone-HTML" height="40" width="5
 
 
 Estilo   <img align="center" title="CSS" alt="icone-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">: Em seguida, adicionar o estilo com **CSS**, começando definindo as propriedades básicas, como fonte, cor de fundo, largura e altura, para cada elemento da página, o uso de classes e IDs para estilizar elementos específicos. Importante frisar o uso do Flexbox para o alinhamento de elementos na página, tornando o código mais organizado e fácil de manter, além de ser compatível com a maioria dos navegadores modernos. Sendo possível criar interfaces de usuário modernas e atraentes.
+<p><i>Obs: Nesse projeto em questão, ainda não foi exigido responsividade</i></p>
 
 ## Para visualizar o projeto:
 
